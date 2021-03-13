@@ -1,0 +1,14 @@
+border_size=1
+usage=map
+
+Wog         , Wog         , Wog         , Wog         , Wog         , Wog         , Wog         , Wog         , Wog         , Wog         , Wog         , Wog         
+Wog         , Wog         , Wwg         , Wog         , Wog         , Wog         , Wwg         , Wog         , Wog         , Wog         , Wwg         , Wog         
+Wwg         , Wwg         , Wwg         , Wwg         , Wwg         , Wwg         , Wwg         , Wwg         , Wwg         , Wwg         , Wwg         , Wwg         
+Wwg         , Wwg         , Wwg^Bw|     , Wwg         , Wwg         , Wwg         , Wwg^Bw/r    , Wwg^Bw|     , Wwg         , Wwg         , Wwg         , Wwg         
+Wwg         , Wwg         , Wwg^Bw\r    , Wwg^Bw\     , Wwg^Bw\r    , Wwg^Bw\     , Wwg^Bw\     , Wwg^Bw/r    , Wwg^Bw/r    , Wwg^Bw|     , Wwf         , Wwf         
+Wwg         , Wwg         , Wwg^Bw\r    , Wwg^Bw\     , Wwg^Bw/     , Wwg^Bw\     , Wwf^Bw\r    , 1 Wwg^Bw\   , Wwf^Bw\r    , 2 Wwf^Vhs   , Sm          , Sm          
+Sm          , Sm          , Sm          , Wwf^Bw\     , Sm^Bw\      , Sm^Bw/      , Sm          , Wwf^Bw\     , Sm          , Sm          , Sm^Vhs      , Sm          
+Sm          , Sm^Vhs      , Sm^Es       , Sm^Es       , Sm          , Sm^Bw\      , Sm          , Sm          , Rb          , Rb          , Rb          , Rb          
+Sm          , Rb          , Rb          , Rb          , Rb          , Rb          , Rb          , Rb          , Sm^Vhs      , Sm          , Rb          , Rb          
+Rb          , Rb          , Rb^Es       , Rb          , Rb^Vhs      , Rb          , Rb          , Rb          , Rb          , Sm^Es       , Rb          , Rb          
+Rb          , Rb          , Rb          , Rb          , Rb          , Rb          , Rb          , Rb^Es       , Rb          , Rb          , Rb          , Rb          

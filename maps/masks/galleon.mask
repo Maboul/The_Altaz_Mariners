@@ -1,0 +1,10 @@
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, _f, ZWKe, ZWKe, ZWCe, _f, ZWCe, ZWKe^Zca, ZWCe, ZWKe^Zca, ZWCe, ZWKe^Zca, ZWCe^Zmo, _f, _f, _f, _f, _f
+_f, _f, ZWKe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, _f, _f, _f
+_f, _f, ZWKe, ZWKe, ZWCe, ZWCe^Zwk, ZWCe, ZWf^Zwv, ZWCe, ZWf^Zwv, ZWCe, ZWf^Zwv, ZWCe, ZWCe^Zwk, ZWCe, ZWKe^Zbo, _f, _f
+_f, _f, ZWKe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe, ZWCe^Zmo, ZWCe, _f, _f, _f, _f
+_f, _f, _f, ZWKe, _f, _f, _f, ZWKe^Zca, _f, ZWKe^Zca, _f, ZWKe^Zca, _f, _f, _f, _f, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f

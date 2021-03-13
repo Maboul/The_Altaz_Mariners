@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Ch          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Xos         , Xos         , Iwr         , Xos         , Xos         , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , Ch          , Iwr         , Iwr         , 1 Iwr       , Iwr         , Iwr         , Ch          , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , Xos         , Ch          , Iwr         , Iwr         , Iwr         , Iwr         , Xos         , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , Xos         , Iwr         , Iwr         , 2 Iwr       , Iwr         , Iwr         , Xos         , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , Ch          , Xos         , Iwr         , Iwr         , Iwr         , Xos         , Ch          , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Xos         , Ch          , Xos         , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   

@@ -1,0 +1,16 @@
+border_size=1
+usage=map
+
+Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
+Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
+Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
+Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Wo          , Ww          , Wo          , Ww          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
+Wo          , Wo          , Wo          , Wo          , Ww          , 1 Ww        , Ww          , 2 Ww        , Ww          , Ww          , Ww          , Ww          , Ww          , Wo          , Wo          , Wo          , Wo          , Wo          
+Wo          , Wo          , Ww          , Ww          , Ww          , Ww          , Wo          , Ww          , Wo          , Ww          , Ww          , Wo          , Ww          , Ww          , Ww          , Wo          , Wo          , Wo          
+Wo          , Wo          , Ww          , Ww          , Wo          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Wo          , Ww          , Wo          , Wo          , Wo          
+Wo          , Wo          , Wo          , Ww          , Ww          , Ww          , Cud         , Ww          , Cud         , Ww          , Cud         , Ww          , Cud         , Ww          , Ww          , Wo          , Wo          , Wo          
+Wo          , Wo          , Wo          , Ww          , Cud         , Cud^Zbl     , Cud         , Cud         , Cud         , Cud         , Cud         , Cud         , Cud         , Cud^Zbl     , Wo          , Wo          , Wo          , Wo          
+Wo          , Wo          , Wo          , Cud^Zbl     , Cud         , Cud         , Cud         , Uu^Vu       , Cud         , Uu^Vu       , Cud         , Uu^Vu       , Cud         , 4 Kud       , Wo          , Wo          , Wo          , Wo          
+Wo          , Wo          , Wo          , Wo          , Wo          , Cud^Zbl     , Cud         , Cud         , Cud         , Cud         , Cud         , Cud         , Cud         , Cud^Zbl     , Wo          , Wo          , Wo          , Wo          
+Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
+Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
